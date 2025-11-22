@@ -5,7 +5,7 @@ Made with basic **HTML**, **CSS**, and **JavaScript**.
 
 #🌍 Live Demo
 
-Click below to view the project online:
+Click to view the project online:
 [Color Switcher](https://github.com/Sartaj-Kaur/color-switcher)
 
 ## 📂 Files Included
