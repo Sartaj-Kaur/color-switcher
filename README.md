@@ -3,6 +3,11 @@
 A simple webpage that lets you switch colors using JavaScript.  
 Made with basic **HTML**, **CSS**, and **JavaScript**.
 
+#🌍 Live Demo
+
+Click below to view the project online:
+[Color Switcher](https://github.com/Sartaj-Kaur/color-switcher)
+
 ## 📂 Files Included
 - `index.html` – structure of the page  
 - `style.css` – basic styling  
